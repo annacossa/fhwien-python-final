@@ -2,7 +2,7 @@
 
 import time  # To use some delays for dramatic effect
 
-rules = "You have to guess an English word and its German translations. To guess the words you can enter alwys one letter. If the word contains this letter it gets displayed. If the words doesnt contain this letter, you loose a live. You have 6 lives."
+rules = "You have to guess an English word and its German translation. To guess the words, you have to enter one letter each try. If the word contains this letter, it gets displayed. If the words doesn't contain this letter, you loose a life. You have 6 lives in total."
 
 
 def print_intro():
